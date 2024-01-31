@@ -16,7 +16,7 @@ pyautogui.write("chrome")
 
 pyautogui.press("enter")
 
-#Indicação do link (e-mial)
+#Indicação do link (e-mail)
 time.sleep(1)
 link = "https://mail.google.com/mail/u/0/#inbox"
 pyautogui.write(link)
